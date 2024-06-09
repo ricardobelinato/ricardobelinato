@@ -6,10 +6,8 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas.
 ![Ricardo Belinato's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardobelinato&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardobelinato&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardobelinato&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardobelinato&layout=compact&theme=radical)
--->
+Algumas linguagens que utilizo:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
