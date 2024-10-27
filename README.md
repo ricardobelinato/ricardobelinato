@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, I'm Ricardo Belinato</h1>
-<p align="center">Analista de Testes na Rubeus. Formando em Análise e Desenvolvimento de Sistemas na FASM</p>
+<p align="center">Test Analyst at Rubeus. Undergraduate student in Systems Analysis and Development at FASM</p>
 
 <!--
 <div style="display: inline_block" align="center"><br>
