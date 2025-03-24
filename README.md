@@ -1,5 +1,6 @@
 <h1 align="center">Hey👋, I'm Ricardo Belinato</h1>
-<p align="center">Test Analyst at Rubeus. Graduate in Systems Analysis and Development at FASM</p>
+<p align="center">Full Stack Developer | Test Automation Specialist <br>
+Graduate in Systems Analysis and Development | Postgraduate student in Full Stack Development</p>
 
 <!--
 <div style="display: inline_block" align="center"><br>
